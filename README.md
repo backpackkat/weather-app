@@ -1,6 +1,6 @@
 # KateCodes' 5-day Weather App
 #### Video Demo: < https://youtu.be/aECDiCQE908>
-#### Description: Final Project for Harvard CS50 - Summer 2023
+#### Description: Final Project for HarvardCS - Summer 2023
 
 #### Project Walkthrough:
 
