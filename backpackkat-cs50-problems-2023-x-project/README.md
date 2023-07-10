@@ -64,7 +64,7 @@
 
 #### The process was really great for me - I watched countless Youtube tutorials, read books, looked up functions on websites, talked to mentors face-to-face, rewrote things 100x over, and can honestly say I'm extremely proud of what I've put forward here. Is it perfect? Of course not. (see Unresolved Issues above).
 
-#### Do I already have ideas to make V2.0? Absolutely. (see every Unresolved Issue Above). I guess that's software development for you. And it means I'm on the right path, so thank you CS50!).
+#### Do I already have ideas to make V2.0? Absolutely. (see every Unresolved Issue Above). I guess that's software development for you. And it means I'm on the right path, so thank you Harvard!).
 
 
 #### -KU.
