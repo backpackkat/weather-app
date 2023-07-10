@@ -1,6 +1,9 @@
-# KateCodes' 5-day Weather App!
+# KateCodes' 5-day Weather App
 #### Video Demo: < https://youtu.be/aECDiCQE908>
-#### Description:
+#### Description: Final Project for Harvard CS50 - Summer 2023
+
+#### Project Walkthrough:
+
 #### HTML:
 #### index.html: this is where everything is organized, tied/linked together, image sources included. If one link is off, the entire app looks broken. So this piece is CRUCIAL to get right. scripts must be correctly allocated here, the STRUCTURE of the page is designed here (which is why there are a ton of divs and classes and ids - I set it up that way in anticipation of the mass amounts of CSS customization that was coming). This is also where I put the search bar form, link to my Github, etc. -  all the STATIC text you see on the page. (dynamic text shows up due to js functions, if I coded it correctly, which I did, of course!)
 
@@ -60,11 +63,11 @@
 ## ⁃	Displaying "feels like" in round circle without breaking entire app
 ## ⁃	Displaying 'footer' (it’s coded but will not display properly within the app boundaries and I cannot figure out why)
 
-#### After about 4 weeks and countless edits, I finally stepped away from the keys for good. I am happy with where my app is.
+#### After about 4 weeks, ruminating between several projects, settling on this one, and then countless edits, I finally stepped away from the keys for good. I am happy with where my app is.
 
 #### The process was really great for me - I watched countless Youtube tutorials, read books, looked up functions on websites, talked to mentors face-to-face, rewrote things 100x over, and can honestly say I'm extremely proud of what I've put forward here. Is it perfect? Of course not. (see Unresolved Issues above).
 
-#### Do I already have ideas to make V2.0? Absolutely. (see every Unresolved Issue Above). I guess that's software development for you. And it means I'm on the right path, so thank you CS50!).
+#### Do I already have ideas to make V2.0? Absolutely. (see every Unresolved Issue Above). I guess that's software development for you. And it means I'm on the right path, so thank you Harvard!).
 
 
 #### -KU.
